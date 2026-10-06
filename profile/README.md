@@ -1,6 +1,6 @@
 # Stanford Media Preservation Lab
 
-We create and maintain scripts and tools that support audiovisual digitization, preservation, and quality control at Stanford Libraries.
+As part of our audiovisual preservation work, we create and maintain scripts and tools that support audiovisual digitization, preservation, and quality control at Stanford Media Preservation Lab.
 
 ## Repositories
 
